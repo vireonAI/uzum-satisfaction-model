@@ -662,11 +662,9 @@ def analyze_product(request: ProductAnalysisRequest, lang: str = "uz"):
         except Exception as e:
             logger.warning(f"Error reading data.txt: {e}")
 
+    # The B2BSellerEngine will auto-extract token via Playwright if uzum_token is None
     if not uzum_token:
-        raise HTTPException(
-            status_code=400,
-            detail="Uzum API token required. Provide via `uzum_token` field or data.txt file."
-        )
+        logger.info("No Uzum token provided in request or data.txt. Engine will use Playwright for auto-extraction.")
 
     # ── Full computation ────────────────────────────────────────────
     try:
