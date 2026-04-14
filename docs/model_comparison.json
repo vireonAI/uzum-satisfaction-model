@@ -1,0 +1,237 @@
+{
+  "generated_at": "2026-04-10 16:30:10",
+  "test_set_size": 1550,
+  "factors": [
+    "product_quality",
+    "price_value",
+    "logistics_delivery",
+    "packaging_condition",
+    "accuracy_expectation",
+    "seller_service",
+    "specifications",
+    "product_defects"
+  ],
+  "dataset_stats": {
+    "train_size": 12399,
+    "test_size": 1550,
+    "class_distribution": {
+      "product_quality": {
+        "positive_rate": 0.6787,
+        "count": 1052
+      },
+      "price_value": {
+        "positive_rate": 0.2768,
+        "count": 429
+      },
+      "logistics_delivery": {
+        "positive_rate": 0.1613,
+        "count": 250
+      },
+      "packaging_condition": {
+        "positive_rate": 0.0806,
+        "count": 125
+      },
+      "accuracy_expectation": {
+        "positive_rate": 0.0806,
+        "count": 125
+      },
+      "seller_service": {
+        "positive_rate": 0.1961,
+        "count": 304
+      },
+      "specifications": {
+        "positive_rate": 0.0871,
+        "count": 135
+      },
+      "product_defects": {
+        "positive_rate": 0.1445,
+        "count": 224
+      }
+    }
+  },
+  "models": [
+    {
+      "model": "TF-IDF + LogReg",
+      "per_factor": {
+        "product_quality": {
+          "f1": 0.8033,
+          "precision": 0.8255,
+          "recall": 0.7823,
+          "support": 1052
+        },
+        "price_value": {
+          "f1": 0.5986,
+          "precision": 0.5958,
+          "recall": 0.6014,
+          "support": 429
+        },
+        "logistics_delivery": {
+          "f1": 0.5428,
+          "precision": 0.4983,
+          "recall": 0.596,
+          "support": 250
+        },
+        "packaging_condition": {
+          "f1": 0.4323,
+          "precision": 0.3622,
+          "recall": 0.536,
+          "support": 125
+        },
+        "accuracy_expectation": {
+          "f1": 0.3575,
+          "precision": 0.2644,
+          "recall": 0.552,
+          "support": 125
+        },
+        "seller_service": {
+          "f1": 0.5304,
+          "precision": 0.4571,
+          "recall": 0.6316,
+          "support": 304
+        },
+        "specifications": {
+          "f1": 0.4503,
+          "precision": 0.4072,
+          "recall": 0.5037,
+          "support": 135
+        },
+        "product_defects": {
+          "f1": 0.57,
+          "precision": 0.458,
+          "recall": 0.7545,
+          "support": 224
+        }
+      },
+      "overall": {
+        "macro_f1": 0.5357,
+        "micro_f1": 0.6216,
+        "weighted_f1": 0.6377
+      },
+      "train_time_sec": 3.2,
+      "inference_ms": 0.0,
+      "params": "~160,000"
+    },
+    {
+      "model": "TF-IDF + RandomForest",
+      "per_factor": {
+        "product_quality": {
+          "f1": 0.7593,
+          "precision": 0.8424,
+          "recall": 0.6911,
+          "support": 1052
+        },
+        "price_value": {
+          "f1": 0.5767,
+          "precision": 0.727,
+          "recall": 0.4779,
+          "support": 429
+        },
+        "logistics_delivery": {
+          "f1": 0.5343,
+          "precision": 0.6899,
+          "recall": 0.436,
+          "support": 250
+        },
+        "packaging_condition": {
+          "f1": 0.3684,
+          "precision": 0.5385,
+          "recall": 0.28,
+          "support": 125
+        },
+        "accuracy_expectation": {
+          "f1": 0.2857,
+          "precision": 0.3529,
+          "recall": 0.24,
+          "support": 125
+        },
+        "seller_service": {
+          "f1": 0.4825,
+          "precision": 0.5149,
+          "recall": 0.4539,
+          "support": 304
+        },
+        "specifications": {
+          "f1": 0.3814,
+          "precision": 0.6271,
+          "recall": 0.2741,
+          "support": 135
+        },
+        "product_defects": {
+          "f1": 0.487,
+          "precision": 0.3511,
+          "recall": 0.7946,
+          "support": 224
+        }
+      },
+      "overall": {
+        "macro_f1": 0.4844,
+        "micro_f1": 0.5918,
+        "weighted_f1": 0.5933
+      },
+      "train_time_sec": 7.7,
+      "inference_ms": 0.21,
+      "params": "~1,600 trees"
+    },
+    {
+      "model": "XLM-RoBERTa V3 (Multi-Task)",
+      "per_factor": {
+        "product_quality": {
+          "f1": 0.8458,
+          "precision": 0.7547,
+          "recall": 0.962,
+          "support": 1052
+        },
+        "price_value": {
+          "f1": 0.5903,
+          "precision": 0.7658,
+          "recall": 0.4802,
+          "support": 429
+        },
+        "logistics_delivery": {
+          "f1": 0.5435,
+          "precision": 0.7984,
+          "recall": 0.412,
+          "support": 250
+        },
+        "packaging_condition": {
+          "f1": 0.5575,
+          "precision": 0.6238,
+          "recall": 0.504,
+          "support": 125
+        },
+        "accuracy_expectation": {
+          "f1": 0.3803,
+          "precision": 0.3222,
+          "recall": 0.464,
+          "support": 125
+        },
+        "seller_service": {
+          "f1": 0.5233,
+          "precision": 0.511,
+          "recall": 0.5362,
+          "support": 304
+        },
+        "specifications": {
+          "f1": 0.4788,
+          "precision": 0.5,
+          "recall": 0.4593,
+          "support": 135
+        },
+        "product_defects": {
+          "f1": 0.6061,
+          "precision": 0.5263,
+          "recall": 0.7143,
+          "support": 224
+        }
+      },
+      "overall": {
+        "macro_f1": 0.5657,
+        "micro_f1": 0.6753,
+        "weighted_f1": 0.664
+      },
+      "train_time_sec": "~60 min (RTX 3060)",
+      "inference_ms": 3.86,
+      "params": "125M"
+    }
+  ]
+}

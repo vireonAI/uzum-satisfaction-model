@@ -1,0 +1,166 @@
+{
+  "gold_standard_analysis": {
+    "dataset_info": {
+      "gold_standard_size": 2584,
+      "source": "uzum_labeled_gold_standard_v2.csv"
+    },
+    "per_factor": {
+      "product_quality": {
+        "total_samples": 2584,
+        "positive_count": 2584,
+        "positive_rate": 1.0,
+        "avg_confidence": 1.0,
+        "min_confidence": 1.0,
+        "high_confidence_pct": 1.0
+      },
+      "price_value": {
+        "total_samples": 2584,
+        "positive_count": 1087,
+        "positive_rate": 0.4207,
+        "avg_confidence": 0.4207,
+        "min_confidence": 0.0,
+        "high_confidence_pct": 0.4207
+      },
+      "logistics_delivery": {
+        "total_samples": 2584,
+        "positive_count": 889,
+        "positive_rate": 0.344,
+        "avg_confidence": 0.344,
+        "min_confidence": 0.0,
+        "high_confidence_pct": 0.344
+      },
+      "packaging_condition": {
+        "total_samples": 2584,
+        "positive_count": 350,
+        "positive_rate": 0.1354,
+        "avg_confidence": 0.1354,
+        "min_confidence": 0.0,
+        "high_confidence_pct": 0.1354
+      },
+      "accuracy_expectation": {
+        "total_samples": 2584,
+        "positive_count": 261,
+        "positive_rate": 0.101,
+        "avg_confidence": 0.101,
+        "min_confidence": 0.0,
+        "high_confidence_pct": 0.101
+      },
+      "seller_service": {
+        "total_samples": 2584,
+        "positive_count": 2584,
+        "positive_rate": 1.0,
+        "avg_confidence": 1.0,
+        "min_confidence": 1.0,
+        "high_confidence_pct": 1.0
+      },
+      "specifications": {
+        "total_samples": 2584,
+        "positive_count": 149,
+        "positive_rate": 0.0577,
+        "avg_confidence": 0.0577,
+        "min_confidence": 0.0,
+        "high_confidence_pct": 0.0577
+      },
+      "product_defects": {
+        "total_samples": 2584,
+        "positive_count": 154,
+        "positive_rate": 0.0596,
+        "avg_confidence": 0.0596,
+        "min_confidence": 0.0,
+        "high_confidence_pct": 0.0596
+      }
+    },
+    "overall": {
+      "total_factor_labels": 20672,
+      "overall_positive_rate": 0.3898,
+      "factors_analyzed": 8
+    }
+  },
+  "ai_vs_gold_agreement": {
+    "matched_count": 2932,
+    "per_factor": {
+      "product_quality": {
+        "cohens_kappa": 0.0,
+        "f1_score": 0.9988,
+        "precision": 1.0,
+        "recall": 0.9976,
+        "accuracy": 0.9976,
+        "agreement_pct": 99.8
+      },
+      "price_value": {
+        "cohens_kappa": 0.9908,
+        "f1_score": 0.9945,
+        "precision": 0.9975,
+        "recall": 0.9916,
+        "accuracy": 0.9956,
+        "agreement_pct": 99.6
+      },
+      "logistics_delivery": {
+        "cohens_kappa": 0.9923,
+        "f1_score": 0.9948,
+        "precision": 0.999,
+        "recall": 0.9907,
+        "accuracy": 0.9966,
+        "agreement_pct": 99.7
+      },
+      "packaging_condition": {
+        "cohens_kappa": 0.9896,
+        "f1_score": 0.991,
+        "precision": 0.9923,
+        "recall": 0.9897,
+        "accuracy": 0.9976,
+        "agreement_pct": 99.8
+      },
+      "accuracy_expectation": {
+        "cohens_kappa": 0.9831,
+        "f1_score": 0.9848,
+        "precision": 0.9966,
+        "recall": 0.9732,
+        "accuracy": 0.9969,
+        "agreement_pct": 99.7
+      },
+      "seller_service": {
+        "cohens_kappa": 0.0,
+        "f1_score": 0.9931,
+        "precision": 1.0,
+        "recall": 0.9864,
+        "accuracy": 0.9864,
+        "agreement_pct": 98.6
+      },
+      "specifications": {
+        "cohens_kappa": 0.9592,
+        "f1_score": 0.9617,
+        "precision": 0.967,
+        "recall": 0.9565,
+        "accuracy": 0.9952,
+        "agreement_pct": 99.5
+      },
+      "product_defects": {
+        "cohens_kappa": 1.0,
+        "f1_score": 1.0,
+        "precision": 1.0,
+        "recall": 1.0,
+        "accuracy": 1.0,
+        "agreement_pct": 100.0
+      }
+    },
+    "overall": {
+      "mean_kappa": 0.7394,
+      "mean_f1": 0.9898,
+      "best_factor": "product_defects",
+      "worst_factor": "product_quality"
+    }
+  },
+  "methodology": {
+    "gold_standard": "Human-verified labels from uzum_labeled_gold_standard_v2.csv (2,584 reviews)",
+    "ai_labels": "Llama 3.3-70B via Groq API (23,987 reviews)",
+    "metrics": "Cohen's Kappa, F1, Precision, Recall, Accuracy per factor",
+    "kappa_interpretation": {
+      "0.81-1.00": "Almost Perfect",
+      "0.61-0.80": "Substantial",
+      "0.41-0.60": "Moderate",
+      "0.21-0.40": "Fair",
+      "0.00-0.20": "Slight"
+    }
+  }
+}

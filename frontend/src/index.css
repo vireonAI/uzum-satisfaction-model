@@ -1,0 +1,171 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Uzum Intel Theme - Light & Dark Modes */
+
+@layer base {
+  :root {
+    /* Light Theme - Soft, warm, pleasant with subtle depth */
+    --background: 220 20% 97%;
+    --foreground: 224 30% 18%;
+
+    --card: 0 0% 100%;
+    --card-foreground: 224 30% 18%;
+
+    --popover: 0 0% 100%;
+    --popover-foreground: 224 30% 18%;
+
+    --primary: 186 80% 38%;
+    --primary-foreground: 0 0% 100%;
+
+    --secondary: 265 60% 52%;
+    --secondary-foreground: 0 0% 100%;
+
+    --muted: 220 16% 90%;
+    --muted-foreground: 220 12% 45%;
+
+    --accent: 265 60% 52%;
+    --accent-foreground: 0 0% 100%;
+
+    --destructive: 0 72% 55%;
+    --destructive-foreground: 0 0% 100%;
+
+    --success: 152 60% 38%;
+    --success-foreground: 0 0% 100%;
+
+    --warning: 38 80% 50%;
+    --warning-foreground: 224 30% 18%;
+
+    --border: 220 16% 86%;
+    --input: 220 16% 86%;
+    --ring: 186 80% 38%;
+
+    --radius: 0.75rem;
+
+    --sidebar-background: 0 0% 100%;
+    --sidebar-foreground: 224 30% 18%;
+    --sidebar-primary: 186 80% 38%;
+    --sidebar-primary-foreground: 0 0% 100%;
+    --sidebar-accent: 220 20% 94%;
+    --sidebar-accent-foreground: 224 30% 18%;
+    --sidebar-border: 220 16% 90%;
+    --sidebar-ring: 186 80% 38%;
+
+    /* Custom gradients */
+    --gradient-cyan: linear-gradient(135deg, hsl(186 80% 38%) 0%, hsl(200 80% 45%) 100%);
+    --gradient-purple: linear-gradient(135deg, hsl(265 60% 52%) 0%, hsl(280 60% 58%) 100%);
+    --gradient-mixed: linear-gradient(135deg, hsl(186 80% 38%) 0%, hsl(265 60% 52%) 100%);
+    --gradient-success: linear-gradient(90deg, hsl(152 60% 38%) 0%, hsl(165 55% 42%) 100%);
+    --gradient-warning: linear-gradient(90deg, hsl(38 80% 50%) 0%, hsl(25 80% 55%) 100%);
+  }
+
+  .dark {
+    /* Dark Theme - Deep navy with cyan/purple accents */
+    --background: 222 47% 11%;
+    --foreground: 210 40% 98%;
+
+    --card: 222 47% 14%;
+    --card-foreground: 210 40% 98%;
+
+    --popover: 222 47% 14%;
+    --popover-foreground: 210 40% 98%;
+
+    --primary: 186 100% 50%;
+    --primary-foreground: 222 47% 11%;
+
+    --secondary: 265 100% 65%;
+    --secondary-foreground: 210 40% 98%;
+
+    --muted: 222 47% 20%;
+    --muted-foreground: 215 20% 65%;
+
+    --accent: 265 100% 65%;
+    --accent-foreground: 210 40% 98%;
+
+    --destructive: 0 84% 60%;
+    --destructive-foreground: 210 40% 98%;
+
+    --success: 142 76% 45%;
+    --success-foreground: 210 40% 98%;
+
+    --warning: 38 92% 50%;
+    --warning-foreground: 222 47% 11%;
+
+    --border: 222 47% 20%;
+    --input: 222 47% 20%;
+    --ring: 186 100% 50%;
+
+    --sidebar-background: 222 47% 8%;
+    --sidebar-foreground: 210 40% 98%;
+    --sidebar-primary: 186 100% 50%;
+    --sidebar-primary-foreground: 222 47% 11%;
+    --sidebar-accent: 222 47% 16%;
+    --sidebar-accent-foreground: 210 40% 98%;
+    --sidebar-border: 222 47% 16%;
+    --sidebar-ring: 186 100% 50%;
+
+    /* Custom gradients */
+    --gradient-cyan: linear-gradient(135deg, hsl(186 100% 50%) 0%, hsl(200 100% 60%) 100%);
+    --gradient-purple: linear-gradient(135deg, hsl(265 100% 65%) 0%, hsl(280 100% 70%) 100%);
+    --gradient-mixed: linear-gradient(135deg, hsl(186 100% 50%) 0%, hsl(265 100% 65%) 100%);
+    --gradient-success: linear-gradient(90deg, hsl(142 76% 45%) 0%, hsl(160 76% 50%) 100%);
+    --gradient-warning: linear-gradient(90deg, hsl(38 92% 50%) 0%, hsl(25 92% 55%) 100%);
+  }
+}
+
+@layer base {
+  * {
+    @apply border-border;
+  }
+
+  body {
+    @apply bg-background text-foreground;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+  }
+}
+
+/* Custom utility classes */
+@layer utilities {
+  .text-gradient-cyan {
+    @apply bg-clip-text text-transparent;
+    background-image: var(--gradient-cyan);
+  }
+
+  .text-gradient-purple {
+    @apply bg-clip-text text-transparent;
+    background-image: var(--gradient-purple);
+  }
+
+  .text-gradient-mixed {
+    @apply bg-clip-text text-transparent;
+    background-image: var(--gradient-mixed);
+  }
+
+  .bg-gradient-cyan {
+    background-image: var(--gradient-cyan);
+  }
+
+  .bg-gradient-purple {
+    background-image: var(--gradient-purple);
+  }
+
+  .bg-gradient-mixed {
+    background-image: var(--gradient-mixed);
+  }
+
+  .border-gradient {
+    border: 1px solid transparent;
+    background: linear-gradient(var(--background), var(--background)) padding-box,
+      var(--gradient-mixed) border-box;
+  }
+
+  .glow-cyan {
+    box-shadow: 0 0 20px hsl(186 100% 50% / 0.3);
+  }
+
+  .glow-purple {
+    box-shadow: 0 0 20px hsl(265 100% 65% / 0.3);
+  }
+}

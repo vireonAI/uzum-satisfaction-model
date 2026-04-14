@@ -1,0 +1,4 @@
+GROQ_API_KEY=gsk_your_groq_api_key_goes_here
+
+# UZUM_TOKEN is optional. The backend will automatically extract it using Playwright if missing.
+# UZUM_TOKEN=Bearer eyJ...

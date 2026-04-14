@@ -1,0 +1,13 @@
+# Backend dependencies
+fastapi>=0.109.0
+uvicorn[standard]>=0.27.0
+pydantic>=2.5.0
+
+# Existing ML dependencies
+torch>=2.0.0
+transformers>=4.35.0
+numpy>=1.24.0
+pandas>=2.0.0
+
+# Utilities
+python-multipart>=0.0.6

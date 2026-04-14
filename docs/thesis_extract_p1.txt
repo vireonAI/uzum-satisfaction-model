@@ -1,0 +1,153 @@
+﻿=== PARA 0 [Normal] ===
+ANNOTATSIYA
+
+=== PARA 1 [Normal] ===
+Ushbu bitiruv malakaviy ishi elektron tijorat bozorida mijozlar qoniqishiga taТsir etuvchi asosiy omillarni aniqlash va tahlil qilish masalalariga bagСishlangan. Ishda elektron tijoratning bugungi kundagi holati, mijozlar qoniqishini baholashning mavjud usullari hamda zamonaviy axborot texnologiyalari yordamida ushbu jarayonni takomillashtirish imkoniyatlari oСrganilgan. Tadqiqot davomida mijozlar sharhlarini intellektual tahlil qilish orqali qoniqish darajasini belgilovchi omillarni aniqlash modeli ishlab chiqilgan. Taklif etilgan model va dasturiy yechimlar elektron tijorat subyektlariga xizmat sifatini oshirish va raqobatbardoshlikni kuchaytirish boСyicha asoslangan qarorlar qabul qilishga imkon beradi.
+
+=== PARA 2 [Normal] ===
+Kalit soСzlar: elektron tijorat, mijozlar qoniqishi, omilli tahlil, sunТiy intellekt, qaror qabul qilish modellari, raqamli iqtisodiyot.
+
+=== PARA 3 [Normal] ===
+└══╬╥└╓╚▀
+
+=== PARA 4 [Normal] ===
+─рээр  т√яєёъэр  ътрышЇшърЎшюээр  ЁрсюЄр яюёт ∙хэр т√ тыхэш■ ш рэрышчє юёэютэ√ї ЇръЄюЁют, тыш ■∙шї эр єфютыхЄтюЁхээюёЄ№ ъышхэЄют эр Ё√эъх ¤ыхъЄЁюээющ ъюььхЁЎшш. ┬ ЁрсюЄх шчєўхэ√ ёютЁхьхээюх ёюёЄю эшх ¤ыхъЄЁюээющ ъюььхЁЎшш, ёє∙хёЄтє■∙шх ьхЄюф√ юЎхэъш єфютыхЄтюЁхээюёЄш ъышхэЄют, р Єръцх тючьюцэюёЄш ёютхЁ°хэёЄтютрэш  фрээюую яЁюЎхёёр ё шёяюы№чютрэшхь ёютЁхьхээ√ї шэЇюЁьрЎшюээ√ї Єхїэюыюушщ. ┬ їюфх шёёыхфютрэш  ЁрчЁрсюЄрэр ьюфхы№ юяЁхфхыхэш  ЇръЄюЁют єфютыхЄтюЁхээюёЄш яюёЁхфёЄтюь шэЄхыыхъЄєры№эюую рэрышчр юЄч√тют ъышхэЄют. ╧Ёхфыюцхээр  ьюфхы№ ш яЁюуЁрььэ√х Ёх°хэш  яючтюы ■Є ёєс·хъЄрь ¤ыхъЄЁюээющ ъюььхЁЎшш яЁшэшьрЄ№ юсюёэютрээ√х Ёх°хэш  фы  яют√°хэш  ърўхёЄтр юсёыєцштрэш  ш єёшыхэш  ъюэъєЁхэЄюёяюёюсэюёЄш.
+
+=== PARA 5 [Normal] ===
+╩ы■ўхт√х ёыютр: ¤ыхъЄЁюээр  ъюььхЁЎш , єфютыхЄтюЁхээюёЄ№ ъышхэЄют, ЇръЄюЁэ√щ рэрышч, шёъєёёЄтхээ√щ шэЄхыыхъЄ, ьюфхыш яЁшэ Єш  Ёх°хэшщ, ЎшЇЁютр  ¤ъюэюьшър.
+
+=== PARA 6 [Normal] ===
+ANNOTATION
+
+=== PARA 7 [Normal] ===
+This final qualification work is dedicated to identifying and analyzing the key factors influencing customer satisfaction in the e-commerce market. The study examines the current state of e-commerce, existing methods for assessing customer satisfaction, and opportunities for improving this process using modern information technologies. During the research, a model was developed to identify satisfaction factors through the intelligent analysis of customer reviews. The proposed model and software solutions enable e-commerce entities to make informed decisions to improve service quality and enhance competitiveness.
+
+=== PARA 8 [Normal] ===
+Keywords: e-commerce, customer satisfaction, factor analysis, artificial intelligence, decision-making models, digital economy.
+
+=== PARA 28 [Normal] ===
+MAVZU: Elektron tijorat bozorida mijozlar qoniqishining asosiy omillarini aniqlash modeli
+
+=== PARA 29 [Normal] ===
+MUNDARIJA
+
+=== PARA 30 [Normal] ===
+KIRISH	4
+
+=== PARA 31 [Normal] ===
+I BOB. ELEKTRON TIJORATDA MIJOZLAR QONIQISHINI BAHOLASHNING NAZARIY VA METODOLOGIK ASOSLARI	7
+
+=== PARA 32 [Normal] ===
+1.1. Elektron tijorat tushunchasi, turlari va rivojlanish bosqichlari
+
+=== PARA 33 [Normal] ===
+1.2. Mijozlar qoniqishini baholash ko'rsatkichlari (CSI, NPS, CSAT) va ularning qiyosiy tahlili
+
+=== PARA 34 [Normal] ===
+1.3. Matnli ma'lumotlarni tahlil qilish (NLP) va ko'p omilli tasniflashda sun'iy intellekt modellarining o'rni
+
+=== PARA 35 [Normal] ===
+1.4. Mijozlar sharhlarini tahlil qilish sohasidagi mavjud tadqiqotlar sharhi va ularning cheklovlari
+
+=== PARA 36 [Normal] ===
+II BOB. O'ZBEKISTON ELEKTRON TIJORAT BOZORI TAHLILI VA TADQIQOT MA'LUMOTLARINI SHAKLLANTIRISH
+
+=== PARA 37 [Normal] ===
+2.1. O'zbekistonda elektron tijorat bozorining joriy holati ("Uzum Market" misolida)
+
+=== PARA 38 [Normal] ===
+2.2. Ma'lumotlarni yig'ish usullari (Web Scraping), statistik tahlili va axloqiy mezonlar
+
+=== PARA 39 [Normal] ===
+2.3. Mijozlar sharhlarini qayta ishlash va ma'lumotlar bazasini tayyorlash (Data Preprocessing & Labeling)
+
+=== PARA 40 [Normal] ===
+III BOB. KO'P OMILLI TASNIFLASH MODELINI ISHLAB CHIQISH VA NATIJALAR TAHLILI
+
+=== PARA 41 [Normal] ===
+3.1. Ko'p omilli tasniflash (Multi-label classification) yondashuvining matematik asoslari va algoritmlarni tanlash
+
+=== PARA 42 [Normal] ===
+3.2. XLM-RoBERTa arxitekturasi asosida modelni o'qitish va optimallashtirish
+
+=== PARA 43 [Normal] ===
+3.3. Modelning ishlash aniqligini baholash (F1-score, Cohen's Kappa va Oltin standart validatsiyasi)
+
+=== PARA 44 [Normal] ===
+3.4. Natijalar tahlili va sotuvchilar uchun amaliy tizimni joriy etish ("Health Score" va Dashboard)
+
+=== PARA 45 [Normal] ===
+XULOSA
+
+=== PARA 46 [Normal] ===
+FOYDALANILGAN ADABIYOTLAR RO'YXATI
+
+=== PARA 47 [Normal] ===
+ILOVALAR
+
+=== PARA 48 [Normal] ===
+KIRISH
+
+=== PARA 49 [Normal] ===
+Mavzuning dolzarbligi. Bugungi kunda jahon iqtisodiyotining globallashuvi va raqamli texnologiyalarning shiddatli rivojlanishi anТanaviy savdo munosabatlarini tubdan oСzgartirib yubordi. Internet orqali amalga oshiriladigan savdo-sotiq (elektron tijorat) nafaqat qulay xizmat turi, balki milliy iqtisodiyotlarning asosiy harakatlantiruvchi kuchiga aylanib ulgurdi. OСzbekiston Respublikasida ham soСnggi yillarda raqamli infratuzilmaning takomillashuvi, internet qamrovining kengayishi va elektron toСlov tizimlari ("Click", "Payme", "Uzum Bank") ekotizimining integratsiyalashuvi natijasida elektron tijorat bozori misli koСrilmagan surТatlarda oСsdi. Xususan, "Uzum Market" kabi milliy marketpleyslarning paydo boСlishi mahalliy tadbirkorlik subyektlari uchun yangi imkoniyatlar eshigini ochdi va aholining xarid madaniyatini oСzgartirdi.
+
+=== PARA 50 [Normal] ===
+Biroq, elektron tijoratning jadal rivojlanishi oСzi bilan birga katta hajmdagi maТlumotlarni (Big Data) qayta ishlash muammosini ham yuzaga keltirdi. Onlayn savdoda mijoz va sotuvchi oСrtasidagi asosiy aloqa vositasi bu Ч raqamli fikr-mulohazalar (sharhlar/reviews) hisoblanadi. Jahon marketing tadqiqotlari (xususan, "BrightLocal" agentligining iste'molchilar xulq-atvori bo'yicha yillik hisobotlari) shuni ko'rsatadiki, xaridorlarning qariyb 90 foizi xaridni amalga oshirishdan oldin boshqa foydalanuvchilarning sharhlarini o'rganib chiqadi. Sotuvlar hajmi oshgani sayin sharhlar soni ham eksponensial tarzda o'sib bormoqda. Masalan, minglab buyurtmalarga ega bo'lgan sotuvchi uchun har bir mijozning fikrini birma-bir o'qib chiqish va ularni tahlil qilish jismoniy jihatdan imkonsiz vazifaga aylanmoqda.
+
+=== PARA 51 [Normal] ===
+Amaliyotda qoСllanilayotgan anТanaviy 5 yulduzli baholash tizimi mijoz qoniqishining umumiy darajasini koСrsatsa-da, uning tub sabablarini ochib bermaydi. Masalan, mijoz 3 yulduz qoСyganda, buning sababi mahsulot sifati, yetkazib berishning kechikishi yoki qadoqlashdagi nuqsonlar ekanligi mavhumligicha qoladi. Bu esa sotuvchilarning strategik qarorlar qabul qilishiga va xizmat sifatini oshirishiga toСsqinlik qiladi.
+
+=== PARA 52 [Normal] ===
+Shu bois, katta hajmdagi matnli maТlumotlarni inson aralashuvisiz, avtomatlashtirilgan holda tahlil qilish, xususan, SunТiy Intellekt (AI) va Tabiiy Tilni Qayta Ishlash (Natural Language Processing Ч NLP) texnologiyalaridan foydalangan holda mijozlar qoniqishini belgilovchi omillarni aniqlash dolzarb ilmiy-amaliy masala hisoblanadi. Ushbu yondashuv OСzbekiston Respublikasi Prezidentining "Raqamli OСzbekiston Ч 2030" strategiyasini tasdiqlash va uni samarali amalga oshirish toСgСrisidagi Farmonida belgilangan sunТiy intellekt texnologiyalarini iqtisodiyot tarmoqlariga keng joriy etish vazifalariga ham toСla mos keladi.
+
+=== PARA 53 [Normal] ===
+Mazkur bitiruv malakaviy ishi aynan shunday muammolarni hal etishga, yaТni zamonaviy mashinali oСqitish (Machine Learning) algoritmlari yordamida elektron tijorat bozorida mijozlar qoniqishini omilli tahlil qilish modelini ishlab chiqishga bagСishlanganligi bilan dolzarbdir.
+
+=== PARA 54 [Normal] ===
+Muammoning oСrganilganlik darajasi. Mijozlar qoniqishini baholash va matnlarni sentiment tahlil (sentiment analysis) qilish masalalari jahon miqyosida koСplab yetakchi olimlar va tadqiqot markazlari tomonidan oСrganilgan. Xususan, B.Pang, L.Lee, A. Konno kabi olimlar matnli maТlumotlarni tasniflashda klassik mashinali oСqitish usullari (SVM, Naive Bayes) va chuqur oСqitish (Deep Learning) modellarining samaradorligini tadqiq etishgan. "Amazon", "AliExpress" va "eBay" kabi global gigantlar oСz platformalarida BERT, RoBERTa kabi Transformer arxitekturasiga asoslangan modellarni allaqachon keng joriy etishgan.
+
+=== PARA 55 [Normal] ===
+Biroq, mavjud ilmiy ishlar va tayyor yechimlarning aksariyati ingliz tili uchun moslashtirilgan boСlib, oСzbek tili va OСzbekiston elektron tijorat bozori uchun xos boСlgan lingvistik xususiyatlarni toСliq hisobga olmaydi. OСzbekiston bozoridagi sharhlar koСpincha "kodlarning almashinishi" (code-switching) hodisasi bilan ajralib turadi, yaТni foydalanuvchilar oСz fikrlarini oСzbek va rus tillarini aralashtirgan holda (baТzan lotin va kirill yozuvlarida) ifodalaydilar.
+
+=== PARA 56 [Normal] ===
+Mahalliy sharoitda oСzbek tilidagi matnlarni NLP usullari yordamida tahlil qilish boСyicha bir qator oСzbek olimlari (masalan, N. Abdurahmonova, E.Kuriyozov va boshqalar) tomonidan morfologik va sintaktik tahlil yoСnalishida tadqiqotlar olib borilgan boСlsa-da, elektron tijorat sohasida mijozlar qoniqishini koСp faktorli (multi-label) tasniflash va "SogСlomlik darajasi" (Health Score) kabi kompleks metrikalarni aniqlash boСyicha yaxlit ilmiy yechimlar yetarli darajada emas. Ushbu tadqiqot ishi aynan shu boСshliqni toСldirishga, yaТni oСzbek va rus tillari aralash qoСllaniladigan sharhlarni tahlil qila oladigan koСp tilli (multilingual) modelni yaratishga qaratilgan.
+
+=== PARA 57 [Normal] ===
+Tadqiqotning maqsadi. Elektron tijorat platformalaridagi (xususan, "Uzum Market" misolida) mijozlar sharhlarini tahlil qilish orqali qoniqish darajasiga taТsir etuvchi asosiy omillarni aniqlashning intellektual modelini va dasturiy taТminotini ishlab chiqishdan iborat. Mazkur maqsadga erishish uchun zamonaviy mashinali oСqitish (Machine Learning) usullari, xususan, XLM-RoBERTa neyron tarmoq arxitekturasidan foydalanish koСzda tutilgan.
+
+=== PARA 58 [Normal] ===
+Tadqiqotning vazifalari. Belgilangan maqsadga erishish uchun bir qator ilmiy va amaliy vazifalarni hal etish lozim. Xususan, dastlab elektron tijoratda mijozlar qoniqishini baholashning nazariy asoslarini o'rganish va mavjud sentiment tahlil usullarini qiyosiy tahlil qilish belgilandi. Shundan so'ng, "Uzum Market" platformasidan ochiq ma'lumotlarni yig'ish (veb-skreping) va 24 mingdan ortiq sharhlardan iborat ma'lumotlar bazasini shakllantirish vazifasi qo'yildi. Navbatdagi bosqichda yig'ilgan matnli ma'lumotlarni dastlabki qayta ishlash, ya'ni tillarning qorishuvi hamda kirill-lotin yozuvlaridagi matnlarni tozalash va normalizatsiya qilish ko'zda tutilgan. Asosiy vazifa sifatida mijozlar qoniqishini 8 ta asosiy omil bo'yicha avtomatik tasniflovchi XLM-RoBERTa modelini o'qitish va sinovdan o'tkazish belgilangan bo'lib, yakuniy bosqichda olingan natijalarni vizualizatsiya qilish va sotuvchilar uchun qaror qabul qilishda ko'maklashuvchi veb-ilova hamda tavsiya tizimini ishlab chiqish rejalashtirilgan.
+
+=== PARA 59 [Normal] ===
+Tadqiqot obyekti va predmeti. Tadqiqot obyekti sifatida OСzbekiston elektron tijorat bozoridagi ("Uzum Market") mijozlar fikr-mulohazalarini tahlil qilish jarayonlari olingan. Tadqiqot predmeti Ч matnli sharhlarni intellektual tahlil qilish orqali mijozlar qoniqishini baholash modellari, algoritmlari va dasturiy vositalari hisoblanadi.
+
+=== PARA 60 [Normal] ===
+Tadqiqotning ilmiy yangiligi. Ishning ilmiy yangiligi tadqiqot davomida qo'llanilgan bir qator yangi yondashuvlar bilan belgilanadi. Birinchidan, ilk bor O'zbekiston elektron tijorat bozori uchun xos bo'lgan lingvistik xususiyatlarni, xususan, tillarning qorishuvi holatini hisobga oluvchi, XLM-RoBERTa arxitekturasiga asoslangan ko'p faktorli tasniflash modeli ishlab chiqildi. Ikkinchidan, mijozlar qoniqishini an'anaviy umumiy baholashdan farqli o'laroq, sakkizta aniq omil, ya'ni sifat, narx, logistika, qadoqlash, moslik, servis, xususiyatlar va nuqsonlar kesimida chuqur tahlil qilish yondashuvi amaliyotga joriy etildi. Shuningdek, sharhlar matni asosida mahsulotning "Sog'lomlik darajasi"ni (Health Score) hisoblash va uning umumiy reytingga ta'sirini aniqlashning yangi matematik usuli ishlab chiqilganligi tadqiqotning ilmiy ahamiyatini yanada oshiradi.
+
+=== PARA 61 [Normal] ===
+Tadqiqotning amaliy ahamiyati. Mazkur tadqiqot natijalarining amaliy ahamiyati shundaki, ishlab chiqilgan dasturiy ta'minot ("Seller Intelligence Platform") elektron tijorat subyektlariga minglab sharhlarni qisqa vaqt ichida avtomatik tahlil qilish hamda mahsulot sotuvining pasayishiga sabab bo'layotgan aniq muammolarni (masalan, yomon qadoqlash yoki sifatsiz yetkazib berish) tezkor aniqlash imkonini beradi. Bu o'z navbatida, sotuvchilarning raqobatbardoshligini oshirish va mijozlar sodiqligini ta'minlash bo'yicha strategik qarorlar qabul qilishini yengillashtiradi hamda mamlakatda elektron tijorat xizmatlari sifatini oshirishga bevosita xizmat qiladi.
+
+=== PARA 72 [Normal] ===
+I BOB. ELEKTRON TIJORATDA MIJOZLAR QONIQISHINI BAHOLASHNING NAZARIY VA METODOLOGIK ASOSLARI
+
+=== PARA 73 [Normal] ===
+1.1. Elektron tijorat tushunchasi, turlari va rivojlanish bosqichlari
+
+=== PARA 74 [Normal] ===
+Zamonaviy global iqtisodiyotda axborot-kommunikatsiya texnologiyalarining misli ko'rilmagan darajada taraqqiy etishi xo'jalik yurituvchi subyektlar o'rtasidagi an'anaviy munosabatlarni tubdan o'zgartirib yubordi. Ushbu jarayonlarning mantiqiy natijasi o'laroq yuzaga kelgan elektron tijorat (e-commerce) bugungi kunda shunchaki tovar va xizmatlarni internet orqali sotish yoki sotib olish jarayoni emas, balki o'zida ishlab chiqarish, logistika, raqamli marketing va moliyaviy hisob-kitoblarni birlashtirgan o'ta murakkab va ko'p tarmoqli raqamli ekotizimga aylangan. Ilmiy tadqiqotlar va xalqaro tashkilotlarning yondashuvlarini tahlil qilish shuni ko'rsatadiki, elektron tijorat tushunchasiga berilgan ta'riflar uning qaysi jihatiga (texnologik, iqtisodiy yoki huquqiy) urg'u berilishiga qarab turlicha talqin qilinadi. Xususan, Jahon Savdo Tashkiloti (WTO) tomonidan 1998-yilda qabul qilingan rasmiy hujjatlarda elektron tijoratga juda keng qamrovli ta'rif berilgan bo'lib, unga ko'ra bu jarayon tovarlar va xizmatlarni elektron vositalar yordamida ishlab chiqarish, taqsimlash, marketingini olib borish, sotish yoki iste'molchiga yetkazib berishning uzluksiz siklini o'zida ifoda etadi. Ushbu ta'rifning ilmiy ahamiyati shundaki, u elektron tijoratni faqatgina oldi-sotdi tranzaksiyasi sifatida emas, balki mahsulot g'oyasidan tortib to u mijozga yetib borgunga qadar va undan keyingi xizmat ko'rsatish jarayonlarini ham qamrab oluvchi to'laqonli iqtisodiy faoliyat ekanligini tasdiqlaydi.
+
+=== PARA 75 [Normal] ===
+O'z navbatida, Iqtisodiy Hamkorlik va Taraqqiyot Tashkiloti (OECD) 2011-yilda mazkur tushunchaga yanada texnologik va aniqroq yondashuvni taqdim etgan. Ularning ta'rifiga ko'ra, elektron tijorat bu ochiq kompyuter tarmoqlari, asosan internet orqali jismoniy shaxslar, korxonalar yoki davlat tashkilotlari o'rtasida amalga oshiriladigan biznes tranzaksiyalari majmuidir. Bunda tovar yoki xizmatga buyurtma berish hamda uni qabul qilish majburiyati tarmoq orqali shakllanadi, ammo to'lovni amalga oshirish yoki mahsulotni bevosita yetkazib berish an'anaviy (offlayn) usullarda ham amalga oshirilishi mumkin. Ushbu ikkala xalqaro ta'rifni umumlashtirgan holda aytish mumkinki, elektron tijorat an'anaviy savdoning shunchaki raqamlashtirilgan shakli emas, balki mijoz va sotuvchi o'rtasida butunlay yangicha aloqa va ishonch mexanizmlarini talab qiluvchi innovatsion iqtisodiyot tarmog'idir. Ushbu muhitda muvaffaqiyatli faoliyat yuritishning asosiy sharti xaridorlarning ehtiyojlarini chuqur anglash va ularning xariddan keyingi qoniqish darajasini muntazam ravishda tahlil qilib borish hisoblanadi.
+
+=== PARA 76 [Normal] ===
+Elektron tijoratning iqtisodiy mohiyatini va unda mijozlar qoniqishini o'rganishning o'ta muhimligini tushunish uchun Nobel mukofoti sovrindori, amerikalik iqtisodchi Jorj Akerlof (George Akerlof) tomonidan ilgari surilgan "Axborot asimmetriyasi" (Information Asymmetry) nazariyasiga murojaat qilish zarur. An'anaviy savdo bozorlarida xaridor va sotuvchi o'rtasida ma'lumotlar muvozanati nisbatan barqaror bo'ladi, chunki xaridor mahsulotni o'z qo'li bilan ushlab ko'rishi, uning sifatini bevosita baholashi va kamchiliklarini xarid qadar aniqlashi mumkin. Biroq, elektron tijorat sharoitida ushbu muvozanat keskin ravishda sotuvchi foydasiga buziladi. Xaridor faqatgina sotuvchi tomonidan taqdim etilgan chiroyli suratlar, sayqallangan matnlar va video roliklarga tayanib qaror qabul qilishga majbur bo'ladi. Ya'ni, mahsulotning haqiqiy holati va sifati haqidagi to'liq ma'lumot faqatgina sotuvchiga ma'lum bo'lib, xaridorda bu borada doimo shubha va tavakkalchilik mavjud bo'ladi. Aynan mana shu holat iqtisodiyotda axborot asimmetriyasi deb ataladi. Elektron tijorat bozorida ushbu asimmetriyani yumshatish va xaridorda ishonch uyg'otishning yagona samarali mexanizmi bu Foydalanuvchilar tomonidan yaratilgan kontent (User Generated Content - UGC), aniqrog'i, oldingi xaridorlarning qoldirgan real sharhlari va xolis baholaridir. Raqamli bozorda xaridorlar sotuvchining reklamasidan ko'ra, o'ziga o'xshagan oddiy iste'molchilarning tajribasiga ko'proq ishonadilar. Shu sababli, elektron tijorat platformalarida mijozlar tomonidan qoldirilgan matnli sharhlar oddiy izohlar emas, balki axborot asimmetriyasini yo'q qiluvchi, savdo hajmini belgilab beruvchi va bozor ishonchini ta'minlovchi eng qimmatli iqtisodiy aktiv (kapital) hisoblanadi.
+
+=== PARA 77 [Normal] ===
+Elektron tijoratning bugungi kundagi holati va uning axborot asimmetriyasini yengib o'tish mexanizmlari birdaniga paydo bo'lmagan, balki bir necha o'n yillik evolyutsion rivojlanish bosqichlarini bosib o'tgan. Bu evolyutsiyani tahlil qilish mijozlar fikrini qayta ishlash texnologiyalariga bo'lgan ehtiyoj qanday qilib tabiiy ravishda yuzaga kelganligini ko'rsatib beradi. Elektron tijoratning rivojlanish tarixini shartli ravishda uchta yirik bosqichga ajratish mumkin bo'lib, bu bosqichlarning har biri iste'molchi va ishlab chiqaruvchi o'rtasidagi muloqot shaklining o'zgarishi bilan tavsiflanadi. Birinchi bosqich 1995-yildan 2000-yillargacha bo'lgan davrni o'z ichiga oladi va bu davrni fanda "Raqamli kataloglar" davri deb atashadi. Ushbu davrda internet tezligining o'ta pastligi (Dial-up aloqa) va veb-texnologiyalarning boshlang'ich holatda ekanligi sababli veb-saytlar asosan statik HTML sahifalardan iborat bo'lgan. Kompaniyalar o'z mahsulotlarining ro'yxati va narxlarini internetga joylashtirishgan, ammo xaridorlarda bu mahsulotlar bo'yicha o'z fikrlarini bildirish yoki savollar berish uchun texnik imkoniyat mavjud emas edi. Bu davr iqtisodiy nuqtai nazardan to'liq bir tomonlama muloqot (Business to Customer) davri bo'lib, mijozlar qoniqishini o'lchash yoki ular bilan qayta aloqa o'rnatishning hech qanday raqamli mexanizmi yo'q edi. Natijada, ushbu bosqichda elektron tijoratga bo'lgan ishonch darajasi o'ta past bo'lib, u asosan kitoblar yoki oddiy elektronika vositalarini sotish bilangina cheklanib qolgan.
+
+=== PARA 78 [Normal] ===
+Ikkinchi bosqich 2000-yildan 2010-yilgacha bo'lgan davrni qamrab oladi va uni "Platformalashuv va interaktivlik" davri deb nomlash maqsadga muvofiqdir. Yigirmanchi asr boshidagi "Dot-com" inqirozidan so'ng omon qolgan Amazon va Alibaba kabi global kompaniyalar elektron savdoning yangi qoidalarini ishlab chiqa boshladilar. Internetning ommalashishi va dinamik veb-sahifalarning (Web 2.0) yaratilishi xaridorlarga faqatgina passiv iste'molchi bo'lishdan chiqib, platforma hayotida faol ishtirok etish imkonini berdi. Aynan shu davrda elektron tijorat tarixidagi eng muhim ixtirolardan biri Ч 5 yulduzli reyting tizimi ommaviy ravishda joriy etildi. Bu tizim birinchi marta xaridor va sotuvchi o'rtasida ikki tomonlama muloqotni yo'lga qo'ydi hamda yuqorida ta'kidlangan axborot asimmetriyasini qisman bo'lsa-da hal qildi. Yangi xaridorlar endilikda mahsulotning umumiy reytingiga qarab uning sifati haqida xulosa chiqarish imkoniyatiga ega bo'ldilar. Biroq, bu bosqichdagi interaktivlik baribir cheklangan edi, chunki 5 yulduzli tizim faqatgina raqamli metrika bo'lib, mijozning nima sababdan aynan shu bahoni qo'yganligini, uning muammosi logistika, qadoqlash yoki mahsulotning xususiyatlari bilan bog'liq ekanligini to'liq ochib bera olmas edi. Mijozlar o'z muammolarini matnli sharhlarda yozib qoldirishni boshlagan bo'lsalar-da, ularning hajmi inson tomonidan o'qib chiqish va tahlil qilish mumkin bo'lgan me'yorda edi.
+
+=== PARA 79 [Normal] ===
+Uchinchi bosqich 2010-yildan boshlab to hozirgi vaqtgacha bo'lgan davrni o'z ichiga oladi va bu davr so'zsiz "Big Data va Ijtimoiy tijorat" davri hisoblanadi. Smartfonlarning butun dunyo bo'ylab keng tarqalishi mobil tijorat (m-commerce) fenomenini yuzaga keltirdi, odamlar endilikda kunning istalgan qismida va istalgan joyda xarid qilish imkoniyatiga ega bo'ldilar. Ijtimoiy tarmoqlarning rivojlanishi va ularning savdo maydonchalariga integratsiya qilinishi natijasida foydalanuvchilar tomonidan yaratiladigan kontent (UGC) hajmi misli ko'rilmagan darajada portlash effektini ko'rsatdi. Har bir xarid qilingan mahsulot ostida nafaqat yulduzli baholar, balki uzun matnli sharhlar, rasm va videolar qoldirish oddiy xarid madaniyatiga aylandi. Elektron tijorat bozorining ushbu bosqichida mijozlar qoniqishini ta'minlash va ushlab qolish biznesning eng muhim raqobat ustunligiga aylandi. Biroq, aynan shu davr o'zgarishi elektron tijorat ishtirokchilari oldiga butunlay yangi texnologik va tahliliy muammoni ko'ndalang qilib qo'ydi. Kuniga yuzlab yoki minglab buyurtmalarni amalga oshiradigan o'rta va yirik sotuvchilar, shuningdek marketpleyslarning o'zi uchun mijozlar tomonidan qoldirilayotgan o'n minglab turli tillardagi matnli sharhlarni qo'lda (inson omili orqali) o'qib chiqish, ularni guruhlash va qaysi omil (narx, sifat, yetkazib berish) mijozlarning noroziligiga sabab bo'layotganligini aniqlash butunlay imkonsiz vazifaga aylandi. Sharhlar hajmining inson imkoniyatlaridan tashqariga chiqishi va haqiqiy ma'lumotlar ummoniga (Big Data) aylanishi zamonaviy iqtisodiyotda inqilobiy yechimlarni talab qildi. Aynan mana shu tarixiy va iqtisodiy zarurat bugungi kunda elektron tijorat tizimlariga Sun'iy intellekt va Tabiiy tilni qayta ishlash (NLP) modellarini joriy etishni shunchaki innovatsiya emas, balki bozorda omon qolish va axborot asimmetriyasini to'liq yengishning yagona hayotiy ehtiyojiga aylantirdi. Bu esa mazkur tadqiqot ishida ko'tarilgan matnli ma'lumotlarni chuqur tahlil qilish orqali mijozlar qoniqishini aniqlash modelining naqadar to'g'ri va dolzarb ekanligini tasdiqlaydi.
+

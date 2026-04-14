@@ -1,0 +1,15 @@
+{
+  "thresholds": {
+    "product_quality": 0.54,
+    "price_value": 0.41,
+    "logistics_delivery": 0.395,
+    "packaging_condition": 0.29,
+    "accuracy_expectation": 0.42,
+    "seller_service": 0.38,
+    "specifications": 0.42,
+    "product_defects": 0.39
+  },
+  "macro_f1": 0.3177,
+  "micro_f1": 0.3606,
+  "weighted_f1": 0.4989
+}
