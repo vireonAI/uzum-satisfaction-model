@@ -56,6 +56,7 @@ class MarketAnalyzer:
         """
         self.data_path = Path(data_path)
         self.df = None
+        self.snapshot = None
         self.weights = IMPACT_WEIGHTS
         self._load_dataset()
     
@@ -75,8 +76,20 @@ class MarketAnalyzer:
         
         # Load or fallback gracefully
         if not data_path.exists():
-            logger.warning(f"⚠️ Dataset not found at {data_path}. This is expected if the repository was cloned without the huge dataset CSV. Falling back to empty market baseline.")
+            logger.warning(f"⚠️ Dataset not found at {data_path}. This is expected if the repository was cloned without the huge dataset CSV. Falling back to lightweight market snapshot.")
             self.df = pd.DataFrame()
+            
+            # Attempt to load lightweight snapshot
+            snapshot_path = project_root / "data" / "market_snapshot.json"
+            if snapshot_path.exists():
+                import json
+                try:
+                    with open(snapshot_path, 'r', encoding='utf-8') as f:
+                        self.snapshot = json.load(f)
+                    logger.info("✅ Market Analyzer: Loaded from snapshot cache successfully")
+                except Exception as e:
+                    logger.error(f"Failed to load snapshot: {e}")
+                    
             return
         
         # Load the dataset
@@ -111,6 +124,8 @@ class MarketAnalyzer:
             }
         """
         if self.df.empty:
+            if self.snapshot and 'categories' in self.snapshot:
+                return self.snapshot['categories']
             return {'categories': []}
         
         try:
@@ -146,6 +161,8 @@ class MarketAnalyzer:
             }
         """
         if self.df.empty:
+            if self.snapshot and 'overview' in self.snapshot and not category:
+                return self.snapshot['overview']
             return self._empty_stats()
         
         # Apply category filter if specified
@@ -205,6 +222,11 @@ class MarketAnalyzer:
                 'selected_category': str | None
             }
         """
+        if self.df is not None and self.df.empty and self.snapshot and 'factor_impact' in self.snapshot:
+            # For MVP, weights are global, so we can just return the cached global one
+            if 'global' in self.snapshot['factor_impact']:
+                return self.snapshot['factor_impact']['global']
+                
         try:
             # Use global weights (from trained model) - these are static
             # NOTE: For MVP, we use the same weights across all categories
@@ -266,6 +288,8 @@ class MarketAnalyzer:
             }
         """
         if self.df.empty:
+            if self.snapshot and 'category_breakdown' in self.snapshot:
+                return self.snapshot['category_breakdown']
             return {'categories': []}
         
         try:
@@ -315,7 +339,12 @@ class MarketAnalyzer:
                 ]
             }
         """
-        if self.df.empty or 'Date' not in self.df.columns:
+        if self.df.empty:
+            if self.snapshot and 'trends' in self.snapshot:
+                return self.snapshot['trends']
+            return {'trends': []}
+            
+        if 'Date' not in self.df.columns:
             return {'trends': []}
         
         try:
@@ -395,6 +424,9 @@ class MarketAnalyzer:
             Dict with scatter data points and quadrant reference lines
         """
         if self.df is None or self.df.empty:
+            if self.snapshot and 'matrix' in self.snapshot and not category:
+                if 'global' in self.snapshot['matrix']:
+                    return self.snapshot['matrix']['global']
             return {
                 'points': [],
                 'median_price': 0,
