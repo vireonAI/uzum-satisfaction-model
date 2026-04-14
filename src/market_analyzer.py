@@ -73,29 +73,11 @@ class MarketAnalyzer:
         logger.debug(f"Project root: {project_root}")
         logger.debug(f"Target dataset: {data_path} (exists: {data_path.exists()})")
         
-        # Load or crash
+        # Load or fallback gracefully
         if not data_path.exists():
-            error_msg = f"""
-            ❌ CRITICAL ERROR: Dataset not found!
-            
-            Expected location: {data_path}
-            File exists: {data_path.exists()}
-            
-            Project structure should be:
-                {project_root}/
-                    data/
-                        uzum_labeled.csv
-                    src/
-                        market_analyzer.py
-            
-            Current working directory: {os.getcwd()}
-            This file location: {current_file}
-            
-            SOLUTION: Ensure data/uzum_labeled.csv exists in project root.
-            """
-            logger.error(error_msg)
-            print(error_msg)
-            raise FileNotFoundError(error_msg)
+            logger.warning(f"⚠️ Dataset not found at {data_path}. This is expected if the repository was cloned without the huge dataset CSV. Falling back to empty market baseline.")
+            self.df = pd.DataFrame()
+            return
         
         # Load the dataset
         try:
@@ -108,14 +90,11 @@ class MarketAnalyzer:
             missing = [col for col in required_cols if col not in self.df.columns]
             if missing:
                 logger.warning(f"⚠️ Missing columns: {missing}")
-                print(f"⚠️ WARNING: Missing columns: {missing}")
-                print(f"   Available columns: {list(self.df.columns)}")
                 
         except Exception as e:
             error_msg = f"❌ FAILED to read CSV from {data_path}: {e}"
             logger.error(error_msg)
-            print(error_msg)
-            raise
+            self.df = pd.DataFrame()
 
 
     
